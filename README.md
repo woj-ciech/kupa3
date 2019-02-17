@@ -3,6 +3,8 @@
 ## Description
 Kupa3 allows you to draw connections between scripts on specific website. It search for javascript code or source attribute, in html code, and crawls it in order to draw a dependency graph. This approach can help bug hunters to discover subdomains and examine javascript calls, OSINT researchers to check what companies are connected to each other or for tracking advertisement companies. At the end, graph is saved in gexf format for exploring it in Gephi.
 
+Background: https://medium.com/@woj_ciech/tracking-the-trackers-draw-connections-between-scripts-and-domains-on-website-360bc6a306df
+
 ## Requirements
 - Python 3
 - BeautifulSoup
