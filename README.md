@@ -10,7 +10,7 @@ Kupa3 allows you to draw connections between scripts on specific website. It sea
 - Matplotlib
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 
@@ -32,7 +32,7 @@ jrei  `'(_ )_)(_)_)' asciiart.eu
 
 Tracking the trackers. Draw connections between scripts and domains on website.
 medium.com/@woj_ciech github.com/woj-ciech
-example: python kupa3.py https://nsa.gov
+example: python3 kupa3.py https://nsa.gov
 
 usage: adkupa.py [-h] [--url URL]
 
